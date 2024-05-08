@@ -1,3 +1,3 @@
 # Rejuvenics
 For branding the product
-Auther
+Author Garav
